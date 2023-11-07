@@ -1,0 +1,48 @@
+/* Estilo para o título principal */
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Estilo para o menu suspenso de seleção de animais */
+#animalSelect {
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+/* Estilo para a lista de quantidade de animais por espécie */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+/* Estilo para os parágrafos de informações */
+p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Estilo para as informações calculadas */
+span {
+    font-weight: bold;
+    color: #0070cc;
+}
+
+/* Estilo para o resultado do cálculo de gastos */
+#totalGastos {
+    color: #e53935; /* Vermelho */
+}
